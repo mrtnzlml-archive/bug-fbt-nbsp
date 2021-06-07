@@ -1,0 +1,49 @@
+{
+ "phrases": [
+  {
+   "hashToText": {
+    "rqttAhdzxNGdLVssYRsWPA==": "This DOESN'T render {=nbsp} correctly ❌"
+   },
+   "filepath": "pages/index.js",
+   "line_beg": 30,
+   "col_beg": 13,
+   "line_end": 30,
+   "col_end": 116,
+   "desc": "test1",
+   "project": "",
+   "type": "text",
+   "jsfbt": "This DOESN'T render {=nbsp} correctly ❌"
+  },
+  {
+   "hashToText": {
+    "0s8wfOOTsbw2QJBKZGUznw==": "nbsp"
+   },
+   "filepath": "pages/index.js",
+   "line_beg": 30,
+   "col_beg": 71,
+   "line_end": 30,
+   "col_end": 88,
+   "desc": "In the phrase: \"This DOESN'T render {=nbsp} correctly ❌\"",
+   "project": "",
+   "type": "text",
+   "jsfbt": "nbsp"
+  },
+  {
+   "hashToText": {
+    "VYELZTGLW2H3CYg4lN5FeA==": "Other HTML entities: × & < \" ↓ ℃ ℉"
+   },
+   "filepath": "pages/index.js",
+   "line_beg": 33,
+   "col_beg": 13,
+   "line_end": 33,
+   "col_end": 106,
+   "desc": "test2",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Other HTML entities: × & < \" ↓ ℃ ℉"
+  }
+ ],
+ "childParentMappings": {
+  "1": 0
+ }
+}
